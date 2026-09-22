@@ -13,4 +13,4 @@
 
 ## Фото
 
-![Фото](images/cat.jpg)
+![Фото меня](images/cat.jpg)
